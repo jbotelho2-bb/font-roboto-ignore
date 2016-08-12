@@ -1,7 +1,7 @@
 {
-  "name": "font-roboto",
-  "version": "1.0.1",
-  "description": "An HTML import for Roboto",
+  "name": "font-roboto-ignore",
+  "version": "1.0.0",
+  "description": "An a blank replacement for the HTML import for Roboto",
   "authors": [
     "The Polymer Authors"
   ],
@@ -11,11 +11,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/font-roboto.git"
+    "url": "git://github.com/jbotelho2-bb/font-roboto-ignore.git"
   },
   "main": "roboto.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/font-roboto/",
+  "homepage": "https://github.com/jbotelho2-bb/font-roboto-ignore/",
   "ignore": [
     "/.*"
   ]
